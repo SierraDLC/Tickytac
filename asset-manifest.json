@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Tickytac.git/static/css/main.e8359863.css",
-    "main.js": "/Tickytac.git/static/js/main.bc13e26f.js",
-    "index.html": "/Tickytac.git/index.html",
-    "main.e8359863.css.map": "/Tickytac.git/static/css/main.e8359863.css.map",
-    "main.bc13e26f.js.map": "/Tickytac.git/static/js/main.bc13e26f.js.map"
+    "main.css": "/Tickytac/static/css/main.e8359863.css",
+    "main.js": "/Tickytac/static/js/main.bc13e26f.js",
+    "index.html": "/Tickytac/index.html",
+    "main.e8359863.css.map": "/Tickytac/static/css/main.e8359863.css.map",
+    "main.bc13e26f.js.map": "/Tickytac/static/js/main.bc13e26f.js.map"
   },
   "entrypoints": [
     "static/css/main.e8359863.css",
